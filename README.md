@@ -149,11 +149,5 @@ Fraction of B-allele intensity.
 - MLPA or qPCR (clinical validation)
 - SNP density matters (weak signal in telomeric / centromeric regions)
 
----
 
-## 10. Maintainer
-
-**Treesa K. Issen**  
-Rare Disease Genomics | CNV + Exome Interpretation  
-CSIR-IGIB, Delhi
 
